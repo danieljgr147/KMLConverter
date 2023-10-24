@@ -1,0 +1,20 @@
+#Tabla_Principal{
+    width: 100%;
+}
+
+
+body{
+background-color:#6CBDF0;
+}
+
+table, th, td{
+    border:1px solid black;
+}
+
+.btn{
+    display: inline-block;
+    padding: 10px 20px;
+    background-color:#996CF0;
+    color: #fff;
+    border-radius: 0.5rem;
+}
